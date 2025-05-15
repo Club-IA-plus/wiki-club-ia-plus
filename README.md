@@ -14,3 +14,10 @@ Available in http://localhost:8000
 ```
 https://club-ia-plus.github.io/wiki-club-ia-plus/
 ```
+
+## Contribute
+
+1. Clone project
+2. Create your branch
+3. Add/commit your change
+4. push and create merge request
