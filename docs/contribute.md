@@ -7,13 +7,13 @@ Pour contribuer a ce wiki, ainsi qu'a divers autre projets du ClubIA+, vous avez
 La première étape est de cloner ce projet sur votre machine :
 
 ``` 
-git clone <url_du_projet>
+git clone https://github.com/Club-IA-plus/wiki-club-ia-plus
 ``` 
 
 Ensuite, vous devez entrer dans le dossier du projet que vous venez de cloner sur votre machine :
 
 ```
-cd <dossier du projet>
+cd wiki-club-ia-plus
 ``` 
 
 Ensuite, il vous suffit d'utiliser Docker pour lancer le projet :
