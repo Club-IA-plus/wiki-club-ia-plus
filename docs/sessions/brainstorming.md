@@ -1,6 +1,13 @@
 # 32 Thèmes de Session pour Explorer l’Intelligence Artificielle
 
-TODO : Avoir des thèmes de sessions un peu plus pédagogiques et progressifs
+## Nos séances:
+
+1. Wahou (Séance découverte) - Génération de texte
+2. Wahou (Séance découverte) - Génération d'image
+3. Wahou (Séance découverte) - Génération de code 
+4. L’intelligence artificielle, base, concepts et histoire
+
+## Sujets de réfléxion: 
 
 1. Introduction à l’intelligence artificielle : histoire et concepts clés
 2. Génération de prompts pour modèles de langage

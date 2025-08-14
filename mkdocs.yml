@@ -29,5 +29,9 @@ nav:
   - Ressources:
     - Modèles: ressources/models.md
     - Dataset: ressources/datasets.md
+    - Formation: ressources/formation.md
   - Sessions:
     - Brainstorming: sessions/brainstorming.md
+    - Session1: sessions/2025-2026/session1.md
+  - Projets:
+    - Idée: projets/projets.md
